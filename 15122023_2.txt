@@ -1,0 +1,16 @@
+optimize bitmap performance
+start implement find_edge_curve1 func in cform1
+
+Cglobals:
+add clear_all_caches1 func
+fix get_double_cord_xy_in_pixels_arr2 func
+
+CMarkingFieldInImage1:
+
+add write_all_text_to_file func
+complete rotate_around_arbitrary_axis func
+
+
+cpolynom2
+fix some bugs
+add StringBuilder: class
