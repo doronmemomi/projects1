@@ -1,0 +1,16 @@
+arraylist
+add count prop
+add clone func
+
+
+cedge_detection1
+convert (many) funcs for robust edge detection algorithm to python
+
+cform1
+add find_edge_curve1 func
+
+cglobals1
+add clear_all_caches1,delete_files1,add_to_dict1  func
+
+cmarkingfieldinimage1
+add (more) funcs
