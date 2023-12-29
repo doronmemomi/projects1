@@ -1,0 +1,27 @@
+cedgedetection
+replace "yes"/"no" 1/0 to true/false - bool type
+in loops and more conditions
+
+cglobals
+add flags for debug mode
+and threshold var
+add more funcs
+fix some funcs
+
+cmacros
+fix some loops in funcs
+
+cmarkingfieldinimage
+add funcs
+fix loops in funcs
+
+
+cpolynoms
+fix loops in funcs
+
+cpolynom_curve1
+add more funcs
+fix loops in funcs
+
+hello2
+call cpolynom_curve1
