@@ -1,0 +1,21 @@
+bitmap
+add properties,funcs
+
+cedge_detection
+fix funcs
+
+cform1
+add prepare_sobel_images func
+add debug flags
+
+cmarkingfieldinimage1
+add funcs
+fix bugs
+
+cpolynom_curve1
+add funcs
+fix bugs
+
+
+hello2
+set to prepare sobel images
