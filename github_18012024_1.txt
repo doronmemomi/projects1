@@ -1,0 +1,29 @@
+arraylist
+add clear func
+
+bitmap
+add only_update_on_save_mode to update bitmap only when save
+
+cconfig1
+add hardcoded vals
+
+cform1:
+optimize prepare_sobel_images
+update funcs
+
+cglobals1:
+fix syntax bug
+add var
+
+cmarkingfieldinimage1
+fix str to bool
+fix bugs
+update funcs
+move funcs to cmarkingfieldinimageutils1 to reduce line in cmarkingfieldinimage1
+
+cmarkingfieldinimageutils1
+add funcs from cmarkingfieldinimage1  to reduce line in cmarkingfieldinimage1
+
+cpolynom_curve1
+add create_result_for_polynom1 func
+update func and fix bugs
